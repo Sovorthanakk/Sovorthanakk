@@ -13,13 +13,6 @@ Welcome to my GitHub! I'm a **web developer** with a passion for building **mode
 
 ---
 
-## 📈 GitHub Stats
-
-![Sovorthanak's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Sovorthanak&show_icons=true&theme=tokyonight&hide=issues&count_private=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Sovorthanak&layout=compact&theme=tokyonight)
-
----
-
 ## 📬 Get in Touch
 
 - 📧 Email: your.email@example.com
