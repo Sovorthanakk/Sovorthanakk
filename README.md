@@ -8,6 +8,7 @@ Welcome to my GitHub! I'm a **web developer** with a passion for building **mode
 
 - 🌐 **Frontend**: HTML, CSS, JavaScript
 - ⚙️ **Backend**: Node.js, Laravel
+- 📦 **DevOps / Tools**: Docker, Git, GitHub Actions 
 - 🤖 **Bots**: Grammy (Telegram Bots)
 - 📚 **Languages**: Python, Java, C++, JavaScript
 - 🧠 **Currently Exploring**: React.js, AI, Machine Learning
