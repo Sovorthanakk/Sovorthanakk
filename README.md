@@ -9,14 +9,15 @@ Welcome to my GitHub! I'm a **web developer** with a passion for building **mode
 - 🌐 **Frontend**: HTML, CSS, JavaScript
 - ⚙️ **Backend**: Node.js, Laravel
 - 🤖 **Bots**: Grammy (Telegram Bots)
-- 🧠 **Currently Exploring**: AI, React.js, Machine Learning
+- 📚 **Languages**: Python, Java, C++, JavaScript
+- 🧠 **Currently Exploring**: React.js, AI, Machine Learning
 
 ---
 
 ## 📬 Get in Touch
 
-- 📧 Email: your.email@example.com
-- 💼 LinkedIn: 
+- 📧 Email: chh.vorthanak@gmail.com
+- 💼 LinkedIn: [LinkedIn](www.linkedin.com/in/chhoeun-sovorthanak-1965622b5)
 - 🌐 Portfolio: [My Personal Website](https://sovorthanak.site/index.html)
 
 ---
